@@ -1,7 +1,7 @@
-# Lets Create This project in python
-# Defining the structure of the file first
+# Telephone Directory
+# language: Python
+# DS: Python Dictionary
 
-# Using python Dictionary
 
 def searchDirectory():
     # A single search function for everything
